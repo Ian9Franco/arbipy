@@ -1,0 +1,2966 @@
+[
+  {
+    "buy_trade": {
+      "exchange": "Binance",
+      "type": "buy",
+      "amount": 0.4164442421962812,
+      "price": 51569.37100680945,
+      "timestamp": "2025-02-21T04:01:51.194350"
+    },
+    "sell_trade": {
+      "exchange": "Kraken",
+      "type": "sell",
+      "amount": 0.4164442421962812,
+      "price": 51684.936500976815,
+      "timestamp": "2025-02-21T04:01:51.194350"
+    },
+    "profit": 48.12658464256674,
+    "profit_percentage": 0.0022409715672526624,
+    "timestamp": "2025-02-21T04:01:51.194350"
+  },
+  {
+    "buy_trade": {
+      "exchange": "Kraken",
+      "type": "buy",
+      "amount": 0.16424927391922975,
+      "price": 48676.963726293594,
+      "timestamp": "2025-02-21T06:06:53.194350"
+    },
+    "sell_trade": {
+      "exchange": "Binance",
+      "type": "sell",
+      "amount": 0.16424927391922975,
+      "price": 49209.259276614095,
+      "timestamp": "2025-02-21T06:06:53.194350"
+    },
+    "profit": 87.42915765057933,
+    "profit_percentage": 0.01093526608014324,
+    "timestamp": "2025-02-21T06:06:53.194350"
+  },
+  {
+    "buy_trade": {
+      "exchange": "Binance",
+      "type": "buy",
+      "amount": 0.1856174222249281,
+      "price": 52412.821946033895,
+      "timestamp": "2025-02-21T03:56:23.194350"
+    },
+    "sell_trade": {
+      "exchange": "Huobi",
+      "type": "sell",
+      "amount": 0.1856174222249281,
+      "price": 53421.49766774013,
+      "timestamp": "2025-02-21T03:56:23.194350"
+    },
+    "profit": 187.22778732398,
+    "profit_percentage": 0.01924482758712747,
+    "timestamp": "2025-02-21T03:56:23.194350"
+  },
+  {
+    "buy_trade": {
+      "exchange": "Huobi",
+      "type": "buy",
+      "amount": 0.25086454347687925,
+      "price": 51967.30402801951,
+      "timestamp": "2025-02-20T22:30:22.194350"
+    },
+    "sell_trade": {
+      "exchange": "Coinbase",
+      "type": "sell",
+      "amount": 0.25086454347687925,
+      "price": 52564.19700681459,
+      "timestamp": "2025-02-20T22:30:22.194350"
+    },
+    "profit": 149.73928462998265,
+    "profit_percentage": 0.011485933125821694,
+    "timestamp": "2025-02-20T22:30:22.194350"
+  },
+  {
+    "buy_trade": {
+      "exchange": "Kraken",
+      "type": "buy",
+      "amount": 0.24918203822016294,
+      "price": 51738.64287886658,
+      "timestamp": "2025-02-21T08:17:18.194350"
+    },
+    "sell_trade": {
+      "exchange": "Coinbase",
+      "type": "sell",
+      "amount": 0.24918203822016294,
+      "price": 52732.81822333471,
+      "timestamp": "2025-02-21T08:17:18.194350"
+    },
+    "profit": 247.73063868280224,
+    "profit_percentage": 0.019215334789429054,
+    "timestamp": "2025-02-21T08:17:18.194350"
+  },
+  {
+    "buy_trade": {
+      "exchange": "Kraken",
+      "type": "buy",
+      "amount": 0.4049285665555318,
+      "price": 48823.498110845925,
+      "timestamp": "2025-02-21T15:35:55.194350"
+    },
+    "sell_trade": {
+      "exchange": "FTX",
+      "type": "sell",
+      "amount": 0.4049285665555318,
+      "price": 49527.773268150915,
+      "timestamp": "2025-02-21T15:35:55.194350"
+    },
+    "profit": 285.1811299081819,
+    "profit_percentage": 0.014424922108326736,
+    "timestamp": "2025-02-21T15:35:55.194350"
+  },
+  {
+    "buy_trade": {
+      "exchange": "FTX",
+      "type": "buy",
+      "amount": 0.33549630613768794,
+      "price": 51838.18915037703,
+      "timestamp": "2025-02-22T00:55:03.194350"
+    },
+    "sell_trade": {
+      "exchange": "Kraken",
+      "type": "sell",
+      "amount": 0.33549630613768794,
+      "price": 52516.85808538184,
+      "timestamp": "2025-02-22T00:55:03.194350"
+    },
+    "profit": 227.69092078451285,
+    "profit_percentage": 0.013092064868162449,
+    "timestamp": "2025-02-22T00:55:03.194350"
+  },
+  {
+    "buy_trade": {
+      "exchange": "FTX",
+      "type": "buy",
+      "amount": 0.23680155551458038,
+      "price": 49196.35552451297,
+      "timestamp": "2025-02-22T10:20:20.194350"
+    },
+    "sell_trade": {
+      "exchange": "Coinbase",
+      "type": "sell",
+      "amount": 0.23680155551458038,
+      "price": 49441.601096844555,
+      "timestamp": "2025-02-22T10:20:20.194350"
+    },
+    "profit": 58.07453301118403,
+    "profit_percentage": 0.004985035369325051,
+    "timestamp": "2025-02-22T10:20:20.194350"
+  },
+  {
+    "buy_trade": {
+      "exchange": "FTX",
+      "type": "buy",
+      "amount": 0.4826201360804512,
+      "price": 51823.165502220814,
+      "timestamp": "2025-02-22T04:45:11.194350"
+    },
+    "sell_trade": {
+      "exchange": "Binance",
+      "type": "sell",
+      "amount": 0.4826201360804512,
+      "price": 52513.70596368933,
+      "timestamp": "2025-02-22T04:45:11.194350"
+    },
+    "profit": 333.26873148299273,
+    "profit_percentage": 0.013324937887843332,
+    "timestamp": "2025-02-22T04:45:11.194350"
+  },
+  {
+    "buy_trade": {
+      "exchange": "Kraken",
+      "type": "buy",
+      "amount": 0.19088959136007477,
+      "price": 48622.562591760085,
+      "timestamp": "2025-02-21T19:50:11.194350"
+    },
+    "sell_trade": {
+      "exchange": "Huobi",
+      "type": "sell",
+      "amount": 0.19088959136007477,
+      "price": 49463.416138169036,
+      "timestamp": "2025-02-21T19:50:11.194350"
+    },
+    "profit": 160.51018986767485,
+    "profit_percentage": 0.01729348478542445,
+    "timestamp": "2025-02-21T19:50:11.194350"
+  },
+  {
+    "buy_trade": {
+      "exchange": "Kraken",
+      "type": "buy",
+      "amount": 0.261130437728322,
+      "price": 47532.68408710406,
+      "timestamp": "2025-02-22T01:06:55.194350"
+    },
+    "sell_trade": {
+      "exchange": "Huobi",
+      "type": "sell",
+      "amount": 0.261130437728322,
+      "price": 47950.090600130265,
+      "timestamp": "2025-02-22T01:06:55.194350"
+    },
+    "profit": 108.99754545718497,
+    "profit_percentage": 0.00878146313516193,
+    "timestamp": "2025-02-22T01:06:55.194350"
+  },
+  {
+    "buy_trade": {
+      "exchange": "Binance",
+      "type": "buy",
+      "amount": 0.3959879809481066,
+      "price": 48187.00389611396,
+      "timestamp": "2025-02-22T04:26:15.194350"
+    },
+    "sell_trade": {
+      "exchange": "FTX",
+      "type": "sell",
+      "amount": 0.3959879809481066,
+      "price": 48736.80409280396,
+      "timestamp": "2025-02-22T04:26:15.194350"
+    },
+    "profit": 217.71426981214972,
+    "profit_percentage": 0.011409719472812946,
+    "timestamp": "2025-02-22T04:26:15.194350"
+  },
+  {
+    "buy_trade": {
+      "exchange": "FTX",
+      "type": "buy",
+      "amount": 0.17270981371838118,
+      "price": 50952.35436028559,
+      "timestamp": "2025-02-22T12:08:10.194350"
+    },
+    "sell_trade": {
+      "exchange": "Coinbase",
+      "type": "sell",
+      "amount": 0.17270981371838118,
+      "price": 51677.81016695111,
+      "timestamp": "2025-02-22T12:08:10.194350"
+    },
+    "profit": 125.2933372301195,
+    "profit_percentage": 0.014237925131698451,
+    "timestamp": "2025-02-22T12:08:10.194350"
+  },
+  {
+    "buy_trade": {
+      "exchange": "FTX",
+      "type": "buy",
+      "amount": 0.4667173309198679,
+      "price": 49851.627511745115,
+      "timestamp": "2025-02-23T09:38:44.194350"
+    },
+    "sell_trade": {
+      "exchange": "Huobi",
+      "type": "sell",
+      "amount": 0.4667173309198679,
+      "price": 50071.3339127551,
+      "timestamp": "2025-02-23T09:38:44.194350"
+    },
+    "profit": 102.54078506539008,
+    "profit_percentage": 0.004407206183152648,
+    "timestamp": "2025-02-23T09:38:44.194350"
+  },
+  {
+    "buy_trade": {
+      "exchange": "FTX",
+      "type": "buy",
+      "amount": 0.46360387041142836,
+      "price": 49720.638271835756,
+      "timestamp": "2025-02-23T15:25:51.194350"
+    },
+    "sell_trade": {
+      "exchange": "Huobi",
+      "type": "sell",
+      "amount": 0.46360387041142836,
+      "price": 50704.512435922836,
+      "timestamp": "2025-02-23T15:25:51.194350"
+    },
+    "profit": 456.1278704685792,
+    "profit_percentage": 0.01978804372357373,
+    "timestamp": "2025-02-23T15:25:51.194350"
+  },
+  {
+    "buy_trade": {
+      "exchange": "Binance",
+      "type": "buy",
+      "amount": 0.4718153350815285,
+      "price": 48408.24708140778,
+      "timestamp": "2025-02-23T07:35:08.194350"
+    },
+    "sell_trade": {
+      "exchange": "FTX",
+      "type": "sell",
+      "amount": 0.4718153350815285,
+      "price": 48754.22426959517,
+      "timestamp": "2025-02-23T07:35:08.194350"
+    },
+    "profit": 163.23734297519695,
+    "profit_percentage": 0.007147071192343779,
+    "timestamp": "2025-02-23T07:35:08.194350"
+  },
+  {
+    "buy_trade": {
+      "exchange": "Coinbase",
+      "type": "buy",
+      "amount": 0.1504705491636727,
+      "price": 52104.82570461362,
+      "timestamp": "2025-02-23T13:24:45.194350"
+    },
+    "sell_trade": {
+      "exchange": "Kraken",
+      "type": "sell",
+      "amount": 0.1504705491636727,
+      "price": 52999.52640659891,
+      "timestamp": "2025-02-23T13:24:45.194350"
+    },
+    "profit": 134.62610596484956,
+    "profit_percentage": 0.017171167735161787,
+    "timestamp": "2025-02-23T13:24:45.194350"
+  },
+  {
+    "buy_trade": {
+      "exchange": "Huobi",
+      "type": "buy",
+      "amount": 0.3616851105561263,
+      "price": 52349.51547632249,
+      "timestamp": "2025-02-22T18:11:01.194350"
+    },
+    "sell_trade": {
+      "exchange": "Binance",
+      "type": "sell",
+      "amount": 0.3616851105561263,
+      "price": 52574.643570036715,
+      "timestamp": "2025-02-22T18:11:01.194350"
+    },
+    "profit": 81.4254794643166,
+    "profit_percentage": 0.004300480943630635,
+    "timestamp": "2025-02-22T18:11:01.194350"
+  },
+  {
+    "buy_trade": {
+      "exchange": "Huobi",
+      "type": "buy",
+      "amount": 0.165324999154363,
+      "price": 51765.69541974527,
+      "timestamp": "2025-02-22T21:59:26.194350"
+    },
+    "sell_trade": {
+      "exchange": "Kraken",
+      "type": "sell",
+      "amount": 0.165324999154363,
+      "price": 52379.358716177,
+      "timestamp": "2025-02-22T21:59:26.194350"
+    },
+    "profit": 101.45388396363887,
+    "profit_percentage": 0.01185463252170765,
+    "timestamp": "2025-02-22T21:59:26.194350"
+  },
+  {
+    "buy_trade": {
+      "exchange": "Huobi",
+      "type": "buy",
+      "amount": 0.4998724279511765,
+      "price": 51301.61178295026,
+      "timestamp": "2025-02-24T08:51:56.194350"
+    },
+    "sell_trade": {
+      "exchange": "Binance",
+      "type": "sell",
+      "amount": 0.4998724279511765,
+      "price": 51660.616376829596,
+      "timestamp": "2025-02-24T08:51:56.194350"
+    },
+    "profit": 179.4564979880888,
+    "profit_percentage": 0.006997920365508797,
+    "timestamp": "2025-02-24T08:51:56.194350"
+  },
+  {
+    "buy_trade": {
+      "exchange": "Coinbase",
+      "type": "buy",
+      "amount": 0.28140680612491553,
+      "price": 49157.69492643019,
+      "timestamp": "2025-02-24T01:08:19.194350"
+    },
+    "sell_trade": {
+      "exchange": "Huobi",
+      "type": "sell",
+      "amount": 0.28140680612491553,
+      "price": 49238.54650828567,
+      "timestamp": "2025-02-24T01:08:19.194350"
+    },
+    "profit": 22.752185420098613,
+    "profit_percentage": 0.0016447390785203366,
+    "timestamp": "2025-02-24T01:08:19.194350"
+  },
+  {
+    "buy_trade": {
+      "exchange": "Coinbase",
+      "type": "buy",
+      "amount": 0.13278605940374366,
+      "price": 50154.190155024226,
+      "timestamp": "2025-02-24T16:21:43.194350"
+    },
+    "sell_trade": {
+      "exchange": "Binance",
+      "type": "sell",
+      "amount": 0.13278605940374366,
+      "price": 50335.77990037437,
+      "timestamp": "2025-02-24T16:21:43.194350"
+    },
+    "profit": 24.112586713175006,
+    "profit_percentage": 0.00362062959822221,
+    "timestamp": "2025-02-24T16:21:43.194350"
+  },
+  {
+    "buy_trade": {
+      "exchange": "FTX",
+      "type": "buy",
+      "amount": 0.39799875373844473,
+      "price": 49247.54264649593,
+      "timestamp": "2025-02-24T08:17:58.194350"
+    },
+    "sell_trade": {
+      "exchange": "Coinbase",
+      "type": "sell",
+      "amount": 0.39799875373844473,
+      "price": 49998.58946191125,
+      "timestamp": "2025-02-24T08:17:58.194350"
+    },
+    "profit": 298.9156965345246,
+    "profit_percentage": 0.01525044245976726,
+    "timestamp": "2025-02-24T08:17:58.194350"
+  },
+  {
+    "buy_trade": {
+      "exchange": "Binance",
+      "type": "buy",
+      "amount": 0.11562359166938188,
+      "price": 49744.191998936156,
+      "timestamp": "2025-02-25T13:26:53.194350"
+    },
+    "sell_trade": {
+      "exchange": "Coinbase",
+      "type": "sell",
+      "amount": 0.11562359166938188,
+      "price": 50153.41269415932,
+      "timestamp": "2025-02-25T13:26:53.194350"
+    },
+    "profit": 47.31556656714383,
+    "profit_percentage": 0.008226502005136926,
+    "timestamp": "2025-02-25T13:26:53.194350"
+  },
+  {
+    "buy_trade": {
+      "exchange": "Kraken",
+      "type": "buy",
+      "amount": 0.15448998994063068,
+      "price": 49065.74424633784,
+      "timestamp": "2025-02-25T12:33:40.194350"
+    },
+    "sell_trade": {
+      "exchange": "FTX",
+      "type": "sell",
+      "amount": 0.15448998994063068,
+      "price": 49901.52376649085,
+      "timestamp": "2025-02-25T12:33:40.194350"
+    },
+    "profit": 129.1195696610239,
+    "profit_percentage": 0.01703387022842093,
+    "timestamp": "2025-02-25T12:33:40.194350"
+  },
+  {
+    "buy_trade": {
+      "exchange": "Coinbase",
+      "type": "buy",
+      "amount": 0.3352982258552343,
+      "price": 48752.57591403086,
+      "timestamp": "2025-02-24T18:13:15.194350"
+    },
+    "sell_trade": {
+      "exchange": "Kraken",
+      "type": "sell",
+      "amount": 0.3352982258552343,
+      "price": 48806.39312257673,
+      "timestamp": "2025-02-24T18:13:15.194350"
+    },
+    "profit": 18.044814545910413,
+    "profit_percentage": 0.0011038844109647011,
+    "timestamp": "2025-02-24T18:13:15.194350"
+  },
+  {
+    "buy_trade": {
+      "exchange": "Coinbase",
+      "type": "buy",
+      "amount": 0.14121741183977346,
+      "price": 52487.41719681126,
+      "timestamp": "2025-02-25T00:20:30.194350"
+    },
+    "sell_trade": {
+      "exchange": "Huobi",
+      "type": "sell",
+      "amount": 0.14121741183977346,
+      "price": 53450.58911092056,
+      "timestamp": "2025-02-25T00:20:30.194350"
+    },
+    "profit": 136.01664486727623,
+    "profit_percentage": 0.018350529813606842,
+    "timestamp": "2025-02-25T00:20:30.194350"
+  },
+  {
+    "buy_trade": {
+      "exchange": "FTX",
+      "type": "buy",
+      "amount": 0.4306375833084587,
+      "price": 49620.97667388287,
+      "timestamp": "2025-02-25T06:02:30.194350"
+    },
+    "sell_trade": {
+      "exchange": "Coinbase",
+      "type": "sell",
+      "amount": 0.4306375833084587,
+      "price": 49920.16372452279,
+      "timestamp": "2025-02-25T06:02:30.194350"
+    },
+    "profit": 128.8411884447596,
+    "profit_percentage": 0.006029447034189329,
+    "timestamp": "2025-02-25T06:02:30.194350"
+  },
+  {
+    "buy_trade": {
+      "exchange": "Huobi",
+      "type": "buy",
+      "amount": 0.36157223259296833,
+      "price": 50268.839001660715,
+      "timestamp": "2025-02-26T01:08:49.194350"
+    },
+    "sell_trade": {
+      "exchange": "Coinbase",
+      "type": "sell",
+      "amount": 0.36157223259296833,
+      "price": 51157.57877653802,
+      "timestamp": "2025-02-26T01:08:49.194350"
+    },
+    "profit": 321.3436245965604,
+    "profit_percentage": 0.0176797354489915,
+    "timestamp": "2025-02-26T01:08:49.194350"
+  },
+  {
+    "buy_trade": {
+      "exchange": "Binance",
+      "type": "buy",
+      "amount": 0.2225678645628363,
+      "price": 49877.11760111157,
+      "timestamp": "2025-02-26T02:31:12.194350"
+    },
+    "sell_trade": {
+      "exchange": "Huobi",
+      "type": "sell",
+      "amount": 0.2225678645628363,
+      "price": 50721.917740508376,
+      "timestamp": "2025-02-26T02:31:12.194350"
+    },
+    "profit": 188.02536300793327,
+    "profit_percentage": 0.016937629518871407,
+    "timestamp": "2025-02-26T02:31:12.194350"
+  },
+  {
+    "buy_trade": {
+      "exchange": "Kraken",
+      "type": "buy",
+      "amount": 0.11053438637852092,
+      "price": 50761.17624812533,
+      "timestamp": "2025-02-26T00:58:04.194350"
+    },
+    "sell_trade": {
+      "exchange": "Huobi",
+      "type": "sell",
+      "amount": 0.11053438637852092,
+      "price": 51103.622578476476,
+      "timestamp": "2025-02-26T00:58:04.194350"
+    },
+    "profit": 37.85209499293978,
+    "profit_percentage": 0.006746225278099043,
+    "timestamp": "2025-02-26T00:58:04.194350"
+  },
+  {
+    "buy_trade": {
+      "exchange": "Kraken",
+      "type": "buy",
+      "amount": 0.4415388444642413,
+      "price": 49763.47325641845,
+      "timestamp": "2025-02-26T05:09:23.194350"
+    },
+    "sell_trade": {
+      "exchange": "FTX",
+      "type": "sell",
+      "amount": 0.4415388444642413,
+      "price": 50531.36867204243,
+      "timestamp": "2025-02-26T05:09:23.194350"
+    },
+    "profit": 339.0556544840001,
+    "profit_percentage": 0.015430904745478861,
+    "timestamp": "2025-02-26T05:09:23.194350"
+  },
+  {
+    "buy_trade": {
+      "exchange": "FTX",
+      "type": "buy",
+      "amount": 0.4198770130602417,
+      "price": 48373.72424667972,
+      "timestamp": "2025-02-26T16:32:11.194350"
+    },
+    "sell_trade": {
+      "exchange": "Coinbase",
+      "type": "sell",
+      "amount": 0.4198770130602417,
+      "price": 48956.57087220922,
+      "timestamp": "2025-02-26T16:32:11.194350"
+    },
+    "profit": 244.72390019956583,
+    "profit_percentage": 0.012048826808481763,
+    "timestamp": "2025-02-26T16:32:11.194350"
+  },
+  {
+    "buy_trade": {
+      "exchange": "Binance",
+      "type": "buy",
+      "amount": 0.2581134811223148,
+      "price": 50616.683411929895,
+      "timestamp": "2025-02-26T23:41:42.194350"
+    },
+    "sell_trade": {
+      "exchange": "Kraken",
+      "type": "sell",
+      "amount": 0.2581134811223148,
+      "price": 51196.30438503254,
+      "timestamp": "2025-02-26T23:41:42.194350"
+    },
+    "profit": 149.607987099027,
+    "profit_percentage": 0.011451184353300302,
+    "timestamp": "2025-02-26T23:41:42.194350"
+  },
+  {
+    "buy_trade": {
+      "exchange": "FTX",
+      "type": "buy",
+      "amount": 0.3965116344066776,
+      "price": 48403.78863204972,
+      "timestamp": "2025-02-27T06:05:10.194350"
+    },
+    "sell_trade": {
+      "exchange": "Kraken",
+      "type": "sell",
+      "amount": 0.3965116344066776,
+      "price": 49256.300055207656,
+      "timestamp": "2025-02-27T06:05:10.194350"
+    },
+    "profit": 338.0306977467153,
+    "profit_percentage": 0.017612493716937273,
+    "timestamp": "2025-02-27T06:05:10.194350"
+  },
+  {
+    "buy_trade": {
+      "exchange": "FTX",
+      "type": "buy",
+      "amount": 0.23513047956011812,
+      "price": 48457.62051170016,
+      "timestamp": "2025-02-27T06:45:47.194350"
+    },
+    "sell_trade": {
+      "exchange": "Huobi",
+      "type": "sell",
+      "amount": 0.23513047956011812,
+      "price": 48856.001590867185,
+      "timestamp": "2025-02-27T06:45:47.194350"
+    },
+    "profit": 93.67153419222086,
+    "profit_percentage": 0.008221226609152962,
+    "timestamp": "2025-02-27T06:45:47.194350"
+  },
+  {
+    "buy_trade": {
+      "exchange": "Coinbase",
+      "type": "buy",
+      "amount": 0.46233943823946644,
+      "price": 48817.56608030161,
+      "timestamp": "2025-02-26T23:18:16.194350"
+    },
+    "sell_trade": {
+      "exchange": "Kraken",
+      "type": "sell",
+      "amount": 0.46233943823946644,
+      "price": 48985.40156487792,
+      "timestamp": "2025-02-26T23:18:16.194350"
+    },
+    "profit": 77.59696365565833,
+    "profit_percentage": 0.0034380141832600097,
+    "timestamp": "2025-02-26T23:18:16.194350"
+  },
+  {
+    "buy_trade": {
+      "exchange": "Binance",
+      "type": "buy",
+      "amount": 0.2527698377030414,
+      "price": 47951.44395739806,
+      "timestamp": "2025-02-27T06:44:00.194350"
+    },
+    "sell_trade": {
+      "exchange": "FTX",
+      "type": "sell",
+      "amount": 0.2527698377030414,
+      "price": 48504.32919339802,
+      "timestamp": "2025-02-27T06:44:00.194350"
+    },
+    "profit": 139.75271137211712,
+    "profit_percentage": 0.011530106090051492,
+    "timestamp": "2025-02-27T06:44:00.194350"
+  },
+  {
+    "buy_trade": {
+      "exchange": "Huobi",
+      "type": "buy",
+      "amount": 0.38403154079154544,
+      "price": 47906.625195514025,
+      "timestamp": "2025-02-27T23:33:12.194350"
+    },
+    "sell_trade": {
+      "exchange": "FTX",
+      "type": "sell",
+      "amount": 0.38403154079154544,
+      "price": 48536.911149628875,
+      "timestamp": "2025-02-27T23:33:12.194350"
+    },
+    "profit": 242.0496860979947,
+    "profit_percentage": 0.013156550926778077,
+    "timestamp": "2025-02-27T23:33:12.194350"
+  },
+  {
+    "buy_trade": {
+      "exchange": "Huobi",
+      "type": "buy",
+      "amount": 0.2620853266478502,
+      "price": 51370.51067592757,
+      "timestamp": "2025-02-28T06:09:47.194350"
+    },
+    "sell_trade": {
+      "exchange": "Coinbase",
+      "type": "sell",
+      "amount": 0.2620853266478502,
+      "price": 51977.9246311589,
+      "timestamp": "2025-02-28T06:09:47.194350"
+    },
+    "profit": 159.1942848672643,
+    "profit_percentage": 0.01182417591803238,
+    "timestamp": "2025-02-28T06:09:47.194350"
+  },
+  {
+    "buy_trade": {
+      "exchange": "FTX",
+      "type": "buy",
+      "amount": 0.17087994911662122,
+      "price": 47574.5766991141,
+      "timestamp": "2025-02-28T00:45:26.194350"
+    },
+    "sell_trade": {
+      "exchange": "Binance",
+      "type": "sell",
+      "amount": 0.17087994911662122,
+      "price": 48201.57943529254,
+      "timestamp": "2025-02-28T00:45:26.194350"
+    },
+    "profit": 107.14219565415351,
+    "profit_percentage": 0.01317936552844018,
+    "timestamp": "2025-02-28T00:45:26.194350"
+  },
+  {
+    "buy_trade": {
+      "exchange": "Huobi",
+      "type": "buy",
+      "amount": 0.1864077201754246,
+      "price": 48278.67634405322,
+      "timestamp": "2025-02-28T10:51:47.194350"
+    },
+    "sell_trade": {
+      "exchange": "Coinbase",
+      "type": "sell",
+      "amount": 0.1864077201754246,
+      "price": 48602.8420004606,
+      "timestamp": "2025-02-28T10:51:47.194350"
+    },
+    "profit": 60.42698097006905,
+    "profit_percentage": 0.006714468600945969,
+    "timestamp": "2025-02-28T10:51:47.194350"
+  },
+  {
+    "buy_trade": {
+      "exchange": "Huobi",
+      "type": "buy",
+      "amount": 0.42451602475839223,
+      "price": 50730.761381463315,
+      "timestamp": "2025-02-28T17:32:41.194350"
+    },
+    "sell_trade": {
+      "exchange": "Kraken",
+      "type": "sell",
+      "amount": 0.42451602475839223,
+      "price": 50805.65813089885,
+      "timestamp": "2025-02-28T17:32:41.194350"
+    },
+    "profit": 31.79487033770056,
+    "profit_percentage": 0.0014763576850810906,
+    "timestamp": "2025-02-28T17:32:41.194350"
+  },
+  {
+    "buy_trade": {
+      "exchange": "Kraken",
+      "type": "buy",
+      "amount": 0.33479948447128594,
+      "price": 52083.51861761112,
+      "timestamp": "2025-02-28T03:28:23.194350"
+    },
+    "sell_trade": {
+      "exchange": "FTX",
+      "type": "sell",
+      "amount": 0.33479948447128594,
+      "price": 52384.32311944212,
+      "timestamp": "2025-02-28T03:28:23.194350"
+    },
+    "profit": 100.70919213966408,
+    "profit_percentage": 0.0057754258893194035,
+    "timestamp": "2025-02-28T03:28:23.194350"
+  },
+  {
+    "buy_trade": {
+      "exchange": "Kraken",
+      "type": "buy",
+      "amount": 0.39205930881025897,
+      "price": 51789.24268092778,
+      "timestamp": "2025-02-27T20:58:20.194350"
+    },
+    "sell_trade": {
+      "exchange": "Coinbase",
+      "type": "sell",
+      "amount": 0.39205930881025897,
+      "price": 52619.43579921661,
+      "timestamp": "2025-02-27T20:58:20.194350"
+    },
+    "profit": 325.4849401353531,
+    "profit_percentage": 0.016030223175952353,
+    "timestamp": "2025-02-27T20:58:20.194350"
+  },
+  {
+    "buy_trade": {
+      "exchange": "Kraken",
+      "type": "buy",
+      "amount": 0.3534629385144359,
+      "price": 48762.43887085571,
+      "timestamp": "2025-03-01T09:17:39.194350"
+    },
+    "sell_trade": {
+      "exchange": "Binance",
+      "type": "sell",
+      "amount": 0.3534629385144359,
+      "price": 49084.40460992188,
+      "timestamp": "2025-03-01T09:17:39.194350"
+    },
+    "profit": 113.80295623130223,
+    "profit_percentage": 0.006602740685692125,
+    "timestamp": "2025-03-01T09:17:39.194350"
+  },
+  {
+    "buy_trade": {
+      "exchange": "Binance",
+      "type": "buy",
+      "amount": 0.11810548790046918,
+      "price": 49232.08061052889,
+      "timestamp": "2025-03-01T00:34:03.194350"
+    },
+    "sell_trade": {
+      "exchange": "FTX",
+      "type": "sell",
+      "amount": 0.11810548790046918,
+      "price": 49884.241142972096,
+      "timestamp": "2025-03-01T00:34:03.194350"
+    },
+    "profit": 77.02373787363467,
+    "profit_percentage": 0.01324665795870786,
+    "timestamp": "2025-03-01T00:34:03.194350"
+  },
+  {
+    "buy_trade": {
+      "exchange": "FTX",
+      "type": "buy",
+      "amount": 0.28468664418176626,
+      "price": 47854.25826524038,
+      "timestamp": "2025-03-01T17:59:47.194350"
+    },
+    "sell_trade": {
+      "exchange": "Huobi",
+      "type": "sell",
+      "amount": 0.28468664418176626,
+      "price": 48750.02546661064,
+      "timestamp": "2025-03-01T17:59:47.194350"
+    },
+    "profit": 255.01295852619114,
+    "profit_percentage": 0.018718651878487366,
+    "timestamp": "2025-03-01T17:59:47.194350"
+  },
+  {
+    "buy_trade": {
+      "exchange": "Binance",
+      "type": "buy",
+      "amount": 0.4962837726499194,
+      "price": 50357.60148361218,
+      "timestamp": "2025-02-28T20:17:44.194350"
+    },
+    "sell_trade": {
+      "exchange": "Kraken",
+      "type": "sell",
+      "amount": 0.4962837726499194,
+      "price": 50482.21415274036,
+      "timestamp": "2025-02-28T20:17:44.194350"
+    },
+    "profit": 61.84324555490821,
+    "profit_percentage": 0.0024745552897059197,
+    "timestamp": "2025-02-28T20:17:44.194350"
+  },
+  {
+    "buy_trade": {
+      "exchange": "Binance",
+      "type": "buy",
+      "amount": 0.18037760934317185,
+      "price": 48537.423929087345,
+      "timestamp": "2025-03-02T12:11:18.194350"
+    },
+    "sell_trade": {
+      "exchange": "Coinbase",
+      "type": "sell",
+      "amount": 0.18037760934317185,
+      "price": 49116.803633493175,
+      "timestamp": "2025-03-02T12:11:18.194350"
+    },
+    "profit": 104.50712598267819,
+    "profit_percentage": 0.011936762553618372,
+    "timestamp": "2025-03-02T12:11:18.194350"
+  },
+  {
+    "buy_trade": {
+      "exchange": "Huobi",
+      "type": "buy",
+      "amount": 0.35612014430082406,
+      "price": 47741.2069646134,
+      "timestamp": "2025-03-02T07:08:58.194350"
+    },
+    "sell_trade": {
+      "exchange": "Kraken",
+      "type": "sell",
+      "amount": 0.35612014430082406,
+      "price": 48672.57035854714,
+      "timestamp": "2025-03-02T07:08:58.194350"
+    },
+    "profit": 331.67726624419083,
+    "profit_percentage": 0.019508584997109262,
+    "timestamp": "2025-03-02T07:08:58.194350"
+  },
+  {
+    "buy_trade": {
+      "exchange": "Binance",
+      "type": "buy",
+      "amount": 0.21217930109912572,
+      "price": 47524.33096656757,
+      "timestamp": "2025-03-02T06:19:47.194350"
+    },
+    "sell_trade": {
+      "exchange": "FTX",
+      "type": "sell",
+      "amount": 0.21217930109912572,
+      "price": 48407.704132992294,
+      "timestamp": "2025-03-02T06:19:47.194350"
+    },
+    "profit": 187.43350106171965,
+    "profit_percentage": 0.018587808570017746,
+    "timestamp": "2025-03-02T06:19:47.194350"
+  },
+  {
+    "buy_trade": {
+      "exchange": "Huobi",
+      "type": "buy",
+      "amount": 0.3910059894593171,
+      "price": 49868.431712433594,
+      "timestamp": "2025-03-01T19:51:21.194350"
+    },
+    "sell_trade": {
+      "exchange": "FTX",
+      "type": "sell",
+      "amount": 0.3910059894593171,
+      "price": 50828.75728328818,
+      "timestamp": "2025-03-01T19:51:21.194350"
+    },
+    "profit": 375.493050035082,
+    "profit_percentage": 0.01925718411183057,
+    "timestamp": "2025-03-01T19:51:21.194350"
+  },
+  {
+    "buy_trade": {
+      "exchange": "Huobi",
+      "type": "buy",
+      "amount": 0.175932279620715,
+      "price": 50941.654383222645,
+      "timestamp": "2025-03-01T18:07:44.194350"
+    },
+    "sell_trade": {
+      "exchange": "Coinbase",
+      "type": "sell",
+      "amount": 0.175932279620715,
+      "price": 51028.301489878155,
+      "timestamp": "2025-03-01T18:07:44.194350"
+    },
+    "profit": 15.244022996443164,
+    "profit_percentage": 0.0017009087691515238,
+    "timestamp": "2025-03-01T18:07:44.194350"
+  },
+  {
+    "buy_trade": {
+      "exchange": "Binance",
+      "type": "buy",
+      "amount": 0.15866621199956904,
+      "price": 48482.83429499275,
+      "timestamp": "2025-03-02T09:55:06.194350"
+    },
+    "sell_trade": {
+      "exchange": "Coinbase",
+      "type": "sell",
+      "amount": 0.15866621199956904,
+      "price": 49047.110384706364,
+      "timestamp": "2025-03-02T09:55:06.194350"
+    },
+    "profit": 89.53154967678802,
+    "profit_percentage": 0.011638677852047431,
+    "timestamp": "2025-03-02T09:55:06.194350"
+  },
+  {
+    "buy_trade": {
+      "exchange": "Coinbase",
+      "type": "buy",
+      "amount": 0.1332360203855495,
+      "price": 52113.93441265313,
+      "timestamp": "2025-03-02T03:00:49.194350"
+    },
+    "sell_trade": {
+      "exchange": "Binance",
+      "type": "sell",
+      "amount": 0.1332360203855495,
+      "price": 52650.7703703787,
+      "timestamp": "2025-03-02T03:00:49.194350"
+    },
+    "profit": 71.52588660721995,
+    "profit_percentage": 0.010301198015002037,
+    "timestamp": "2025-03-02T03:00:49.194350"
+  },
+  {
+    "buy_trade": {
+      "exchange": "Kraken",
+      "type": "buy",
+      "amount": 0.11453361287796536,
+      "price": 49587.359512084004,
+      "timestamp": "2025-03-03T06:16:24.194350"
+    },
+    "sell_trade": {
+      "exchange": "Huobi",
+      "type": "sell",
+      "amount": 0.11453361287796536,
+      "price": 49918.08984951098,
+      "timestamp": "2025-03-03T06:16:24.194350"
+    },
+    "profit": 37.879740433860206,
+    "profit_percentage": 0.006669650101985765,
+    "timestamp": "2025-03-03T06:16:24.194350"
+  },
+  {
+    "buy_trade": {
+      "exchange": "Coinbase",
+      "type": "buy",
+      "amount": 0.29883048571347437,
+      "price": 50088.071838350224,
+      "timestamp": "2025-03-02T18:03:54.194350"
+    },
+    "sell_trade": {
+      "exchange": "Huobi",
+      "type": "sell",
+      "amount": 0.29883048571347437,
+      "price": 50341.04018886018,
+      "timestamp": "2025-03-02T18:03:54.194350"
+    },
+    "profit": 75.59465505302614,
+    "profit_percentage": 0.0050504709250210385,
+    "timestamp": "2025-03-02T18:03:54.194350"
+  },
+  {
+    "buy_trade": {
+      "exchange": "Huobi",
+      "type": "buy",
+      "amount": 0.2781520492115793,
+      "price": 49397.720647713955,
+      "timestamp": "2025-03-03T02:12:44.194350"
+    },
+    "sell_trade": {
+      "exchange": "FTX",
+      "type": "sell",
+      "amount": 0.2781520492115793,
+      "price": 49594.44596799244,
+      "timestamp": "2025-03-03T02:12:44.194350"
+    },
+    "profit": 54.719550967265604,
+    "profit_percentage": 0.003982477687208613,
+    "timestamp": "2025-03-03T02:12:44.194350"
+  },
+  {
+    "buy_trade": {
+      "exchange": "Kraken",
+      "type": "buy",
+      "amount": 0.4449199842184546,
+      "price": 48095.92856661318,
+      "timestamp": "2025-03-03T14:02:03.194350"
+    },
+    "sell_trade": {
+      "exchange": "FTX",
+      "type": "sell",
+      "amount": 0.4449199842184546,
+      "price": 48918.58659926543,
+      "timestamp": "2025-03-03T14:02:03.194350"
+    },
+    "profit": 366.0169989048263,
+    "profit_percentage": 0.017104525417632094,
+    "timestamp": "2025-03-03T14:02:03.194350"
+  },
+  {
+    "buy_trade": {
+      "exchange": "FTX",
+      "type": "buy",
+      "amount": 0.46608085184861914,
+      "price": 51422.0383170787,
+      "timestamp": "2025-03-03T12:59:33.194350"
+    },
+    "sell_trade": {
+      "exchange": "Huobi",
+      "type": "sell",
+      "amount": 0.46608085184861914,
+      "price": 52294.79906675278,
+      "timestamp": "2025-03-03T12:59:33.194350"
+    },
+    "profit": 406.7770736681341,
+    "profit_percentage": 0.016972503973733115,
+    "timestamp": "2025-03-03T12:59:33.194350"
+  },
+  {
+    "buy_trade": {
+      "exchange": "Huobi",
+      "type": "buy",
+      "amount": 0.21049847296103086,
+      "price": 47924.896260599104,
+      "timestamp": "2025-03-03T14:18:30.194350"
+    },
+    "sell_trade": {
+      "exchange": "Binance",
+      "type": "sell",
+      "amount": 0.21049847296103086,
+      "price": 48539.08645575387,
+      "timestamp": "2025-03-03T14:18:30.194350"
+    },
+    "profit": 129.28609818771656,
+    "profit_percentage": 0.012815681265432788,
+    "timestamp": "2025-03-03T14:18:30.194350"
+  },
+  {
+    "buy_trade": {
+      "exchange": "Coinbase",
+      "type": "buy",
+      "amount": 0.2469943694588076,
+      "price": 51428.521456967894,
+      "timestamp": "2025-03-03T23:58:34.194350"
+    },
+    "sell_trade": {
+      "exchange": "Kraken",
+      "type": "sell",
+      "amount": 0.2469943694588076,
+      "price": 51684.86278876026,
+      "timestamp": "2025-03-03T23:58:34.194350"
+    },
+    "profit": 63.314865612288486,
+    "profit_percentage": 0.0049844196280629935,
+    "timestamp": "2025-03-03T23:58:34.194350"
+  },
+  {
+    "buy_trade": {
+      "exchange": "Huobi",
+      "type": "buy",
+      "amount": 0.18064439098748195,
+      "price": 51679.60969321861,
+      "timestamp": "2025-03-04T04:21:18.194350"
+    },
+    "sell_trade": {
+      "exchange": "Coinbase",
+      "type": "sell",
+      "amount": 0.18064439098748195,
+      "price": 51757.62310751088,
+      "timestamp": "2025-03-04T04:21:18.194350"
+    },
+    "profit": 14.09268571368193,
+    "profit_percentage": 0.001509558890931519,
+    "timestamp": "2025-03-04T04:21:18.194350"
+  },
+  {
+    "buy_trade": {
+      "exchange": "Huobi",
+      "type": "buy",
+      "amount": 0.3432011223117659,
+      "price": 49831.74909394177,
+      "timestamp": "2025-03-04T00:12:12.194350"
+    },
+    "sell_trade": {
+      "exchange": "Binance",
+      "type": "sell",
+      "amount": 0.3432011223117659,
+      "price": 50003.20348307314,
+      "timestamp": "2025-03-04T00:12:12.194350"
+    },
+    "profit": 58.84333877516838,
+    "profit_percentage": 0.003440665685006382,
+    "timestamp": "2025-03-04T00:12:12.194350"
+  },
+  {
+    "buy_trade": {
+      "exchange": "Huobi",
+      "type": "buy",
+      "amount": 0.23104146477806406,
+      "price": 51890.664910557774,
+      "timestamp": "2025-03-03T22:20:03.194350"
+    },
+    "sell_trade": {
+      "exchange": "Kraken",
+      "type": "sell",
+      "amount": 0.23104146477806406,
+      "price": 52080.926907839814,
+      "timestamp": "2025-03-03T22:20:03.194350"
+    },
+    "profit": 43.95841054364246,
+    "profit_percentage": 0.0036665939357298214,
+    "timestamp": "2025-03-03T22:20:03.194350"
+  },
+  {
+    "buy_trade": {
+      "exchange": "Huobi",
+      "type": "buy",
+      "amount": 0.1879144468617239,
+      "price": 48305.99039978815,
+      "timestamp": "2025-03-04T12:33:22.194350"
+    },
+    "sell_trade": {
+      "exchange": "FTX",
+      "type": "sell",
+      "amount": 0.1879144468617239,
+      "price": 49200.81284820446,
+      "timestamp": "2025-03-04T12:33:22.194350"
+    },
+    "profit": 168.15006543360505,
+    "profit_percentage": 0.018524047245706384,
+    "timestamp": "2025-03-04T12:33:22.194350"
+  },
+  {
+    "buy_trade": {
+      "exchange": "FTX",
+      "type": "buy",
+      "amount": 0.4371298278900225,
+      "price": 51519.288736359034,
+      "timestamp": "2025-03-04T11:30:26.194350"
+    },
+    "sell_trade": {
+      "exchange": "Binance",
+      "type": "sell",
+      "amount": 0.4371298278900225,
+      "price": 51799.418775054015,
+      "timestamp": "2025-03-04T11:30:26.194350"
+    },
+    "profit": 122.4531956015635,
+    "profit_percentage": 0.005437381717913405,
+    "timestamp": "2025-03-04T11:30:26.194350"
+  },
+  {
+    "buy_trade": {
+      "exchange": "Huobi",
+      "type": "buy",
+      "amount": 0.15811860793260726,
+      "price": 47616.08921929602,
+      "timestamp": "2025-03-05T16:02:58.194350"
+    },
+    "sell_trade": {
+      "exchange": "Binance",
+      "type": "sell",
+      "amount": 0.15811860793260726,
+      "price": 47676.12062594687,
+      "timestamp": "2025-03-05T16:02:58.194350"
+    },
+    "profit": 9.492082451869464,
+    "profit_percentage": 0.0012607378647661728,
+    "timestamp": "2025-03-05T16:02:58.194350"
+  },
+  {
+    "buy_trade": {
+      "exchange": "Kraken",
+      "type": "buy",
+      "amount": 0.21759878911851255,
+      "price": 51630.90884498475,
+      "timestamp": "2025-03-05T11:55:58.194350"
+    },
+    "sell_trade": {
+      "exchange": "FTX",
+      "type": "sell",
+      "amount": 0.21759878911851255,
+      "price": 51863.91083524545,
+      "timestamp": "2025-03-05T11:55:58.194350"
+    },
+    "profit": 50.70095094293174,
+    "profit_percentage": 0.00451283921730413,
+    "timestamp": "2025-03-05T11:55:58.194350"
+  },
+  {
+    "buy_trade": {
+      "exchange": "Coinbase",
+      "type": "buy",
+      "amount": 0.32037466451274166,
+      "price": 49308.99373594301,
+      "timestamp": "2025-03-05T15:36:21.194350"
+    },
+    "sell_trade": {
+      "exchange": "Binance",
+      "type": "sell",
+      "amount": 0.32037466451274166,
+      "price": 50268.07903020714,
+      "timestamp": "2025-03-05T15:36:21.194350"
+    },
+    "profit": 307.26662938897607,
+    "profit_percentage": 0.01945051443150864,
+    "timestamp": "2025-03-05T15:36:21.194350"
+  },
+  {
+    "buy_trade": {
+      "exchange": "Kraken",
+      "type": "buy",
+      "amount": 0.322210187508935,
+      "price": 48041.89982323963,
+      "timestamp": "2025-03-05T22:07:52.194350"
+    },
+    "sell_trade": {
+      "exchange": "Huobi",
+      "type": "sell",
+      "amount": 0.322210187508935,
+      "price": 48987.13854979569,
+      "timestamp": "2025-03-05T22:07:52.194350"
+    },
+    "profit": 304.56554732433324,
+    "profit_percentage": 0.019675298646262256,
+    "timestamp": "2025-03-05T22:07:52.194350"
+  },
+  {
+    "buy_trade": {
+      "exchange": "Coinbase",
+      "type": "buy",
+      "amount": 0.32407289940763073,
+      "price": 48654.115787138915,
+      "timestamp": "2025-03-06T07:13:59.194350"
+    },
+    "sell_trade": {
+      "exchange": "Kraken",
+      "type": "sell",
+      "amount": 0.32407289940763073,
+      "price": 48814.286815280495,
+      "timestamp": "2025-03-06T07:13:59.194350"
+    },
+    "profit": 51.90708949094187,
+    "profit_percentage": 0.003292034508289616,
+    "timestamp": "2025-03-06T07:13:59.194350"
+  },
+  {
+    "buy_trade": {
+      "exchange": "FTX",
+      "type": "buy",
+      "amount": 0.4939869601839125,
+      "price": 47543.187097654605,
+      "timestamp": "2025-03-05T22:13:47.194350"
+    },
+    "sell_trade": {
+      "exchange": "Coinbase",
+      "type": "sell",
+      "amount": 0.4939869601839125,
+      "price": 47961.61864005328,
+      "timestamp": "2025-03-05T22:13:47.194350"
+    },
+    "profit": 206.699725674589,
+    "profit_percentage": 0.008801083140244909,
+    "timestamp": "2025-03-05T22:13:47.194350"
+  },
+  {
+    "buy_trade": {
+      "exchange": "Coinbase",
+      "type": "buy",
+      "amount": 0.3579534967419463,
+      "price": 51083.94455826004,
+      "timestamp": "2025-03-06T19:07:13.194350"
+    },
+    "sell_trade": {
+      "exchange": "Huobi",
+      "type": "sell",
+      "amount": 0.3579534967419463,
+      "price": 51950.15333491399,
+      "timestamp": "2025-03-06T19:07:13.194350"
+    },
+    "profit": 310.06246051184644,
+    "profit_percentage": 0.0169565757723753,
+    "timestamp": "2025-03-06T19:07:13.194350"
+  },
+  {
+    "buy_trade": {
+      "exchange": "Binance",
+      "type": "buy",
+      "amount": 0.1556355340703592,
+      "price": 49467.030636682626,
+      "timestamp": "2025-03-06T23:00:42.194350"
+    },
+    "sell_trade": {
+      "exchange": "FTX",
+      "type": "sell",
+      "amount": 0.1556355340703592,
+      "price": 50075.64753722408,
+      "timestamp": "2025-03-06T23:00:42.194350"
+    },
+    "profit": 94.72241636001581,
+    "profit_percentage": 0.012303485628873217,
+    "timestamp": "2025-03-06T23:00:42.194350"
+  },
+  {
+    "buy_trade": {
+      "exchange": "Huobi",
+      "type": "buy",
+      "amount": 0.28053083270724205,
+      "price": 48670.78940789899,
+      "timestamp": "2025-03-07T11:55:53.194350"
+    },
+    "sell_trade": {
+      "exchange": "Binance",
+      "type": "sell",
+      "amount": 0.28053083270724205,
+      "price": 49601.794348773794,
+      "timestamp": "2025-03-07T11:55:53.194350"
+    },
+    "profit": 261.17559131816415,
+    "profit_percentage": 0.019128618052036465,
+    "timestamp": "2025-03-07T11:55:53.194350"
+  },
+  {
+    "buy_trade": {
+      "exchange": "Kraken",
+      "type": "buy",
+      "amount": 0.4168448014838856,
+      "price": 50087.2236241819,
+      "timestamp": "2025-03-07T07:39:19.194350"
+    },
+    "sell_trade": {
+      "exchange": "FTX",
+      "type": "sell",
+      "amount": 0.4168448014838856,
+      "price": 50825.468049139025,
+      "timestamp": "2025-03-07T07:39:19.194350"
+    },
+    "profit": 307.7333507678377,
+    "profit_percentage": 0.014739176411461264,
+    "timestamp": "2025-03-07T07:39:19.194350"
+  },
+  {
+    "buy_trade": {
+      "exchange": "Huobi",
+      "type": "buy",
+      "amount": 0.2306214101618018,
+      "price": 48079.69055433809,
+      "timestamp": "2025-03-07T03:03:45.194350"
+    },
+    "sell_trade": {
+      "exchange": "Binance",
+      "type": "sell",
+      "amount": 0.2306214101618018,
+      "price": 48683.23896441163,
+      "timestamp": "2025-03-07T03:03:45.194350"
+    },
+    "profit": 139.1911854320715,
+    "profit_percentage": 0.012553084329680185,
+    "timestamp": "2025-03-07T03:03:45.194350"
+  },
+  {
+    "buy_trade": {
+      "exchange": "Huobi",
+      "type": "buy",
+      "amount": 0.49784659895164174,
+      "price": 49018.40334932595,
+      "timestamp": "2025-03-07T17:00:01.194350"
+    },
+    "sell_trade": {
+      "exchange": "Binance",
+      "type": "sell",
+      "amount": 0.49784659895164174,
+      "price": 49291.029142747,
+      "timestamp": "2025-03-07T17:00:01.194350"
+    },
+    "profit": 135.72582404116474,
+    "profit_percentage": 0.005561702846137287,
+    "timestamp": "2025-03-07T17:00:01.194350"
+  },
+  {
+    "buy_trade": {
+      "exchange": "Huobi",
+      "type": "buy",
+      "amount": 0.28017950246618095,
+      "price": 48805.04174159636,
+      "timestamp": "2025-03-07T17:23:56.194350"
+    },
+    "sell_trade": {
+      "exchange": "Coinbase",
+      "type": "sell",
+      "amount": 0.28017950246618095,
+      "price": 48936.12475057042,
+      "timestamp": "2025-03-07T17:23:56.194350"
+    },
+    "profit": 36.726772236123,
+    "profit_percentage": 0.002685849746181887,
+    "timestamp": "2025-03-07T17:23:56.194350"
+  },
+  {
+    "buy_trade": {
+      "exchange": "Binance",
+      "type": "buy",
+      "amount": 0.41026569267691604,
+      "price": 49123.430134013266,
+      "timestamp": "2025-03-08T11:16:32.194350"
+    },
+    "sell_trade": {
+      "exchange": "Coinbase",
+      "type": "sell",
+      "amount": 0.41026569267691604,
+      "price": 49597.677534263945,
+      "timestamp": "2025-03-08T11:16:32.194350"
+    },
+    "profit": 194.56743816407106,
+    "profit_percentage": 0.00965419961425511,
+    "timestamp": "2025-03-08T11:16:32.194350"
+  },
+  {
+    "buy_trade": {
+      "exchange": "Coinbase",
+      "type": "buy",
+      "amount": 0.48853661667806536,
+      "price": 48225.1796300803,
+      "timestamp": "2025-03-08T15:17:29.194350"
+    },
+    "sell_trade": {
+      "exchange": "Kraken",
+      "type": "sell",
+      "amount": 0.48853661667806536,
+      "price": 49156.14238240908,
+      "timestamp": "2025-03-08T15:17:29.194350"
+    },
+    "profit": 454.80939327599845,
+    "profit_percentage": 0.019304495275494903,
+    "timestamp": "2025-03-08T15:17:29.194350"
+  },
+  {
+    "buy_trade": {
+      "exchange": "Coinbase",
+      "type": "buy",
+      "amount": 0.49827253311468267,
+      "price": 51797.694138388026,
+      "timestamp": "2025-03-08T11:05:38.194350"
+    },
+    "sell_trade": {
+      "exchange": "Binance",
+      "type": "sell",
+      "amount": 0.49827253311468267,
+      "price": 52038.48406873399,
+      "timestamp": "2025-03-08T11:05:38.194350"
+    },
+    "profit": 119.97900854199179,
+    "profit_percentage": 0.004648661187554883,
+    "timestamp": "2025-03-08T11:05:38.194350"
+  },
+  {
+    "buy_trade": {
+      "exchange": "Coinbase",
+      "type": "buy",
+      "amount": 0.3703742354969518,
+      "price": 49592.63581603096,
+      "timestamp": "2025-03-07T19:18:46.194350"
+    },
+    "sell_trade": {
+      "exchange": "Binance",
+      "type": "sell",
+      "amount": 0.3703742354969518,
+      "price": 50275.108876166785,
+      "timestamp": "2025-03-07T19:18:46.194350"
+    },
+    "profit": 252.77043789507297,
+    "profit_percentage": 0.0137615807045935,
+    "timestamp": "2025-03-07T19:18:46.194350"
+  },
+  {
+    "buy_trade": {
+      "exchange": "Coinbase",
+      "type": "buy",
+      "amount": 0.31250791704563957,
+      "price": 50727.69047869866,
+      "timestamp": "2025-03-08T08:49:08.194350"
+    },
+    "sell_trade": {
+      "exchange": "Kraken",
+      "type": "sell",
+      "amount": 0.31250791704563957,
+      "price": 51079.096437948974,
+      "timestamp": "2025-03-08T08:49:08.194350"
+    },
+    "profit": 109.81714436273796,
+    "profit_percentage": 0.006927300571625109,
+    "timestamp": "2025-03-08T08:49:08.194350"
+  },
+  {
+    "buy_trade": {
+      "exchange": "Kraken",
+      "type": "buy",
+      "amount": 0.3360788572241513,
+      "price": 52064.91353914612,
+      "timestamp": "2025-03-07T23:08:41.194350"
+    },
+    "sell_trade": {
+      "exchange": "Binance",
+      "type": "sell",
+      "amount": 0.3360788572241513,
+      "price": 53060.91341586167,
+      "timestamp": "2025-03-07T23:08:41.194350"
+    },
+    "profit": 334.73450036195936,
+    "profit_percentage": 0.019129963136627355,
+    "timestamp": "2025-03-07T23:08:41.194350"
+  },
+  {
+    "buy_trade": {
+      "exchange": "FTX",
+      "type": "buy",
+      "amount": 0.31867113066228714,
+      "price": 48847.8801638477,
+      "timestamp": "2025-03-08T22:57:24.194350"
+    },
+    "sell_trade": {
+      "exchange": "Coinbase",
+      "type": "sell",
+      "amount": 0.31867113066228714,
+      "price": 49334.786427698185,
+      "timestamp": "2025-03-08T22:57:24.194350"
+    },
+    "profit": 155.16296962778324,
+    "profit_percentage": 0.009967807450748763,
+    "timestamp": "2025-03-08T22:57:24.194350"
+  },
+  {
+    "buy_trade": {
+      "exchange": "Huobi",
+      "type": "buy",
+      "amount": 0.11129848289293531,
+      "price": 47934.77586682944,
+      "timestamp": "2025-03-09T06:28:23.194350"
+    },
+    "sell_trade": {
+      "exchange": "Coinbase",
+      "type": "sell",
+      "amount": 0.11129848289293531,
+      "price": 48769.03927151911,
+      "timestamp": "2025-03-09T06:28:23.194350"
+    },
+    "profit": 92.8522512750551,
+    "profit_percentage": 0.017404136967436538,
+    "timestamp": "2025-03-09T06:28:23.194350"
+  },
+  {
+    "buy_trade": {
+      "exchange": "FTX",
+      "type": "buy",
+      "amount": 0.11788664074897355,
+      "price": 48202.603049019825,
+      "timestamp": "2025-03-09T12:58:43.194350"
+    },
+    "sell_trade": {
+      "exchange": "Kraken",
+      "type": "sell",
+      "amount": 0.11788664074897355,
+      "price": 48692.836360164336,
+      "timestamp": "2025-03-09T12:58:43.194350"
+    },
+    "profit": 57.79195823407281,
+    "profit_percentage": 0.010170266336985301,
+    "timestamp": "2025-03-09T12:58:43.194350"
+  },
+  {
+    "buy_trade": {
+      "exchange": "Kraken",
+      "type": "buy",
+      "amount": 0.4660575122262336,
+      "price": 50243.271398265264,
+      "timestamp": "2025-03-10T09:10:08.194350"
+    },
+    "sell_trade": {
+      "exchange": "Huobi",
+      "type": "sell",
+      "amount": 0.4660575122262336,
+      "price": 50948.368385423055,
+      "timestamp": "2025-03-10T09:10:08.194350"
+    },
+    "profit": 328.61574771297455,
+    "profit_percentage": 0.014033659981426598,
+    "timestamp": "2025-03-10T09:10:08.194350"
+  },
+  {
+    "buy_trade": {
+      "exchange": "Coinbase",
+      "type": "buy",
+      "amount": 0.3641455912148325,
+      "price": 51280.952521434134,
+      "timestamp": "2025-03-10T09:24:03.194350"
+    },
+    "sell_trade": {
+      "exchange": "Huobi",
+      "type": "sell",
+      "amount": 0.3641455912148325,
+      "price": 52222.67517220554,
+      "timestamp": "2025-03-10T09:24:03.194350"
+    },
+    "profit": 342.92415142555546,
+    "profit_percentage": 0.018363985153703834,
+    "timestamp": "2025-03-10T09:24:03.194350"
+  },
+  {
+    "buy_trade": {
+      "exchange": "FTX",
+      "type": "buy",
+      "amount": 0.43511289499204964,
+      "price": 50333.987175486596,
+      "timestamp": "2025-03-09T20:25:44.194350"
+    },
+    "sell_trade": {
+      "exchange": "Kraken",
+      "type": "sell",
+      "amount": 0.43511289499204964,
+      "price": 50793.48752692708,
+      "timestamp": "2025-03-09T20:25:44.194350"
+    },
+    "profit": 199.9345281651331,
+    "profit_percentage": 0.009129027466837858,
+    "timestamp": "2025-03-09T20:25:44.194350"
+  },
+  {
+    "buy_trade": {
+      "exchange": "Huobi",
+      "type": "buy",
+      "amount": 0.23578925576132478,
+      "price": 51337.92969949846,
+      "timestamp": "2025-03-10T12:31:38.194350"
+    },
+    "sell_trade": {
+      "exchange": "Coinbase",
+      "type": "sell",
+      "amount": 0.23578925576132478,
+      "price": 52056.03452914226,
+      "timestamp": "2025-03-10T12:31:38.194350"
+    },
+    "profit": 169.32140334032374,
+    "profit_percentage": 0.013987802660667431,
+    "timestamp": "2025-03-10T12:31:38.194350"
+  },
+  {
+    "buy_trade": {
+      "exchange": "Huobi",
+      "type": "buy",
+      "amount": 0.15725984911728685,
+      "price": 51516.12785088199,
+      "timestamp": "2025-03-10T14:34:07.194350"
+    },
+    "sell_trade": {
+      "exchange": "FTX",
+      "type": "sell",
+      "amount": 0.15725984911728685,
+      "price": 52457.650705802174,
+      "timestamp": "2025-03-10T14:34:07.194350"
+    },
+    "profit": 148.06374210522426,
+    "profit_percentage": 0.01827627374568033,
+    "timestamp": "2025-03-10T14:34:07.194350"
+  },
+  {
+    "buy_trade": {
+      "exchange": "Kraken",
+      "type": "buy",
+      "amount": 0.3685196436847319,
+      "price": 49087.631530937746,
+      "timestamp": "2025-03-10T14:45:18.194350"
+    },
+    "sell_trade": {
+      "exchange": "FTX",
+      "type": "sell",
+      "amount": 0.3685196436847319,
+      "price": 50051.58444062554,
+      "timestamp": "2025-03-10T14:45:18.194350"
+    },
+    "profit": 355.23558280701036,
+    "profit_percentage": 0.019637388882375786,
+    "timestamp": "2025-03-10T14:45:18.194350"
+  },
+  {
+    "buy_trade": {
+      "exchange": "Binance",
+      "type": "buy",
+      "amount": 0.3708091789121095,
+      "price": 49606.74820962725,
+      "timestamp": "2025-03-10T15:02:24.194350"
+    },
+    "sell_trade": {
+      "exchange": "FTX",
+      "type": "sell",
+      "amount": 0.3708091789121095,
+      "price": 50144.64638010051,
+      "timestamp": "2025-03-10T15:02:24.194350"
+    },
+    "profit": 199.45757893151676,
+    "profit_percentage": 0.010843245926949656,
+    "timestamp": "2025-03-10T15:02:24.194350"
+  },
+  {
+    "buy_trade": {
+      "exchange": "Kraken",
+      "type": "buy",
+      "amount": 0.48563198608717295,
+      "price": 49148.731011266485,
+      "timestamp": "2025-03-11T02:39:25.194350"
+    },
+    "sell_trade": {
+      "exchange": "FTX",
+      "type": "sell",
+      "amount": 0.48563198608717295,
+      "price": 49336.9643429897,
+      "timestamp": "2025-03-11T02:39:25.194350"
+    },
+    "profit": 91.41212673254631,
+    "profit_percentage": 0.0038298716538594305,
+    "timestamp": "2025-03-11T02:39:25.194350"
+  },
+  {
+    "buy_trade": {
+      "exchange": "FTX",
+      "type": "buy",
+      "amount": 0.2112092596768331,
+      "price": 50133.51997992058,
+      "timestamp": "2025-03-11T13:41:36.194350"
+    },
+    "sell_trade": {
+      "exchange": "Coinbase",
+      "type": "sell",
+      "amount": 0.2112092596768331,
+      "price": 50457.51243128764,
+      "timestamp": "2025-03-11T13:41:36.194350"
+    },
+    "profit": 68.43020579411859,
+    "profit_percentage": 0.006462591326059453,
+    "timestamp": "2025-03-11T13:41:36.194350"
+  },
+  {
+    "buy_trade": {
+      "exchange": "Huobi",
+      "type": "buy",
+      "amount": 0.2465995163835457,
+      "price": 51064.211291597785,
+      "timestamp": "2025-03-11T05:51:53.194350"
+    },
+    "sell_trade": {
+      "exchange": "Kraken",
+      "type": "sell",
+      "amount": 0.2465995163835457,
+      "price": 51116.11957572703,
+      "timestamp": "2025-03-11T05:51:53.194350"
+    },
+    "profit": 12.80055776257359,
+    "profit_percentage": 0.0010165296362422927,
+    "timestamp": "2025-03-11T05:51:53.194350"
+  },
+  {
+    "buy_trade": {
+      "exchange": "FTX",
+      "type": "buy",
+      "amount": 0.14594688965126923,
+      "price": 51184.926542442474,
+      "timestamp": "2025-03-11T02:58:18.194350"
+    },
+    "sell_trade": {
+      "exchange": "Binance",
+      "type": "sell",
+      "amount": 0.14594688965126923,
+      "price": 51829.510718251135,
+      "timestamp": "2025-03-11T02:58:18.194350"
+    },
+    "profit": 94.07505557770128,
+    "profit_percentage": 0.012593242177932451,
+    "timestamp": "2025-03-11T02:58:18.194350"
+  },
+  {
+    "buy_trade": {
+      "exchange": "Kraken",
+      "type": "buy",
+      "amount": 0.4767514032106781,
+      "price": 48525.02916218335,
+      "timestamp": "2025-03-10T19:08:37.194350"
+    },
+    "sell_trade": {
+      "exchange": "Huobi",
+      "type": "sell",
+      "amount": 0.4767514032106781,
+      "price": 49109.258985306886,
+      "timestamp": "2025-03-10T19:08:37.194350"
+    },
+    "profit": 278.5323879716707,
+    "profit_percentage": 0.012039762432102486,
+    "timestamp": "2025-03-10T19:08:37.194350"
+  },
+  {
+    "buy_trade": {
+      "exchange": "FTX",
+      "type": "buy",
+      "amount": 0.4440846807530826,
+      "price": 50950.25087694548,
+      "timestamp": "2025-03-10T21:39:58.194350"
+    },
+    "sell_trade": {
+      "exchange": "Kraken",
+      "type": "sell",
+      "amount": 0.4440846807530826,
+      "price": 51524.301304690554,
+      "timestamp": "2025-03-10T21:39:58.194350"
+    },
+    "profit": 254.92700094134125,
+    "profit_percentage": 0.011266881278593018,
+    "timestamp": "2025-03-10T21:39:58.194350"
+  },
+  {
+    "buy_trade": {
+      "exchange": "Coinbase",
+      "type": "buy",
+      "amount": 0.26204047953328646,
+      "price": 49615.32281029494,
+      "timestamp": "2025-03-12T17:50:52.194350"
+    },
+    "sell_trade": {
+      "exchange": "Huobi",
+      "type": "sell",
+      "amount": 0.26204047953328646,
+      "price": 50287.52502262557,
+      "timestamp": "2025-03-12T17:50:52.194350"
+    },
+    "profit": 176.14419006245225,
+    "profit_percentage": 0.013548278520746509,
+    "timestamp": "2025-03-12T17:50:52.194350"
+  },
+  {
+    "buy_trade": {
+      "exchange": "Binance",
+      "type": "buy",
+      "amount": 0.13158977648069234,
+      "price": 48176.48556160181,
+      "timestamp": "2025-03-12T08:05:02.194350"
+    },
+    "sell_trade": {
+      "exchange": "Huobi",
+      "type": "sell",
+      "amount": 0.13158977648069234,
+      "price": 48328.161040297346,
+      "timestamp": "2025-03-12T08:05:02.194350"
+    },
+    "profit": 19.958942339148052,
+    "profit_percentage": 0.0031483300811054895,
+    "timestamp": "2025-03-12T08:05:02.194350"
+  },
+  {
+    "buy_trade": {
+      "exchange": "Binance",
+      "type": "buy",
+      "amount": 0.388180210344906,
+      "price": 51025.72532854563,
+      "timestamp": "2025-03-12T09:55:18.194350"
+    },
+    "sell_trade": {
+      "exchange": "Huobi",
+      "type": "sell",
+      "amount": 0.388180210344906,
+      "price": 51692.54476007075,
+      "timestamp": "2025-03-12T09:55:18.194350"
+    },
+    "profit": 258.84610719148986,
+    "profit_percentage": 0.013068298926307939,
+    "timestamp": "2025-03-12T09:55:18.194350"
+  },
+  {
+    "buy_trade": {
+      "exchange": "Kraken",
+      "type": "buy",
+      "amount": 0.1374951221778618,
+      "price": 49772.45666690148,
+      "timestamp": "2025-03-12T12:54:26.194350"
+    },
+    "sell_trade": {
+      "exchange": "Binance",
+      "type": "sell",
+      "amount": 0.1374951221778618,
+      "price": 50449.825183575194,
+      "timestamp": "2025-03-12T12:54:26.194350"
+    },
+    "profit": 93.13486695948905,
+    "profit_percentage": 0.013609304463449563,
+    "timestamp": "2025-03-12T12:54:26.194350"
+  },
+  {
+    "buy_trade": {
+      "exchange": "Huobi",
+      "type": "buy",
+      "amount": 0.3686915441639086,
+      "price": 47755.31845875326,
+      "timestamp": "2025-03-11T18:32:47.194350"
+    },
+    "sell_trade": {
+      "exchange": "FTX",
+      "type": "sell",
+      "amount": 0.3686915441639086,
+      "price": 48633.825705844305,
+      "timestamp": "2025-03-11T18:32:47.194350"
+    },
+    "profit": 323.8981934891817,
+    "profit_percentage": 0.01839600855870788,
+    "timestamp": "2025-03-11T18:32:47.194350"
+  },
+  {
+    "buy_trade": {
+      "exchange": "FTX",
+      "type": "buy",
+      "amount": 0.40074959185150305,
+      "price": 52252.74259789498,
+      "timestamp": "2025-03-12T12:50:41.194350"
+    },
+    "sell_trade": {
+      "exchange": "Coinbase",
+      "type": "sell",
+      "amount": 0.40074959185150305,
+      "price": 52623.835427440004,
+      "timestamp": "2025-03-12T12:50:41.194350"
+    },
+    "profit": 148.71529997918697,
+    "profit_percentage": 0.007101882333731719,
+    "timestamp": "2025-03-12T12:50:41.194350"
+  },
+  {
+    "buy_trade": {
+      "exchange": "FTX",
+      "type": "buy",
+      "amount": 0.3358056684135339,
+      "price": 49144.58076200966,
+      "timestamp": "2025-03-11T22:49:00.194350"
+    },
+    "sell_trade": {
+      "exchange": "Coinbase",
+      "type": "sell",
+      "amount": 0.3358056684135339,
+      "price": 49577.127184528654,
+      "timestamp": "2025-03-11T22:49:00.194350"
+    },
+    "profit": 145.2515405338745,
+    "profit_percentage": 0.008801508036331968,
+    "timestamp": "2025-03-11T22:49:00.194350"
+  },
+  {
+    "buy_trade": {
+      "exchange": "FTX",
+      "type": "buy",
+      "amount": 0.15289084909965595,
+      "price": 49921.588894942775,
+      "timestamp": "2025-03-13T05:40:27.194350"
+    },
+    "sell_trade": {
+      "exchange": "Huobi",
+      "type": "sell",
+      "amount": 0.15289084909965595,
+      "price": 50575.2629511746,
+      "timestamp": "2025-03-13T05:40:27.194350"
+    },
+    "profit": 99.94078149170036,
+    "profit_percentage": 0.013094015449056393,
+    "timestamp": "2025-03-13T05:40:27.194350"
+  },
+  {
+    "buy_trade": {
+      "exchange": "Huobi",
+      "type": "buy",
+      "amount": 0.2025526995900783,
+      "price": 48168.139844635494,
+      "timestamp": "2025-03-13T03:14:05.194350"
+    },
+    "sell_trade": {
+      "exchange": "FTX",
+      "type": "sell",
+      "amount": 0.2025526995900783,
+      "price": 48829.21473086476,
+      "timestamp": "2025-03-13T03:14:05.194350"
+    },
+    "profit": 133.9025028369433,
+    "profit_percentage": 0.013724318363996192,
+    "timestamp": "2025-03-13T03:14:05.194350"
+  },
+  {
+    "buy_trade": {
+      "exchange": "Huobi",
+      "type": "buy",
+      "amount": 0.22046381330101555,
+      "price": 51814.79363936655,
+      "timestamp": "2025-03-13T11:28:59.194350"
+    },
+    "sell_trade": {
+      "exchange": "Binance",
+      "type": "sell",
+      "amount": 0.22046381330101555,
+      "price": 51869.46612995898,
+      "timestamp": "2025-03-13T11:28:59.194350"
+    },
+    "profit": 12.053305758670831,
+    "profit_percentage": 0.0010551521438635972,
+    "timestamp": "2025-03-13T11:28:59.194350"
+  },
+  {
+    "buy_trade": {
+      "exchange": "Coinbase",
+      "type": "buy",
+      "amount": 0.14913126408576138,
+      "price": 47901.06245147785,
+      "timestamp": "2025-03-13T03:46:05.194350"
+    },
+    "sell_trade": {
+      "exchange": "FTX",
+      "type": "sell",
+      "amount": 0.14913126408576138,
+      "price": 48688.90976320231,
+      "timestamp": "2025-03-13T03:46:05.194350"
+    },
+    "profit": 117.49266550403809,
+    "profit_percentage": 0.016447386997366236,
+    "timestamp": "2025-03-13T03:46:05.194350"
+  },
+  {
+    "buy_trade": {
+      "exchange": "Coinbase",
+      "type": "buy",
+      "amount": 0.30899859656245693,
+      "price": 51592.32619003103,
+      "timestamp": "2025-03-13T20:55:58.194350"
+    },
+    "sell_trade": {
+      "exchange": "Binance",
+      "type": "sell",
+      "amount": 0.30899859656245693,
+      "price": 52087.45261370941,
+      "timestamp": "2025-03-13T20:55:58.194350"
+    },
+    "profit": 152.99337003760775,
+    "profit_percentage": 0.009596900551734506,
+    "timestamp": "2025-03-13T20:55:58.194350"
+  },
+  {
+    "buy_trade": {
+      "exchange": "Coinbase",
+      "type": "buy",
+      "amount": 0.43917983488399237,
+      "price": 51153.83234320871,
+      "timestamp": "2025-03-14T16:54:20.194350"
+    },
+    "sell_trade": {
+      "exchange": "Huobi",
+      "type": "sell",
+      "amount": 0.43917983488399237,
+      "price": 51423.2563993178,
+      "timestamp": "2025-03-14T16:54:20.194350"
+    },
+    "profit": 118.32561247576086,
+    "profit_percentage": 0.0052669378571956384,
+    "timestamp": "2025-03-14T16:54:20.194350"
+  },
+  {
+    "buy_trade": {
+      "exchange": "Huobi",
+      "type": "buy",
+      "amount": 0.12642088063975843,
+      "price": 52378.69015420181,
+      "timestamp": "2025-03-14T01:40:46.194350"
+    },
+    "sell_trade": {
+      "exchange": "Kraken",
+      "type": "sell",
+      "amount": 0.12642088063975843,
+      "price": 52563.07749238203,
+      "timestamp": "2025-03-14T01:40:46.194350"
+    },
+    "profit": 23.31040967156423,
+    "profit_percentage": 0.003520273944181995,
+    "timestamp": "2025-03-14T01:40:46.194350"
+  },
+  {
+    "buy_trade": {
+      "exchange": "Huobi",
+      "type": "buy",
+      "amount": 0.2606609082801945,
+      "price": 50971.22961638386,
+      "timestamp": "2025-03-14T06:21:04.194350"
+    },
+    "sell_trade": {
+      "exchange": "Coinbase",
+      "type": "sell",
+      "amount": 0.2606609082801945,
+      "price": 51038.85449851351,
+      "timestamp": "2025-03-14T06:21:04.194350"
+    },
+    "profit": 17.627163198254493,
+    "profit_percentage": 0.0013267265207961515,
+    "timestamp": "2025-03-14T06:21:04.194350"
+  },
+  {
+    "buy_trade": {
+      "exchange": "FTX",
+      "type": "buy",
+      "amount": 0.12365964101719779,
+      "price": 52103.50919322342,
+      "timestamp": "2025-03-13T19:22:14.194350"
+    },
+    "sell_trade": {
+      "exchange": "Coinbase",
+      "type": "sell",
+      "amount": 0.12365964101719779,
+      "price": 52166.86457696677,
+      "timestamp": "2025-03-13T19:22:14.194350"
+    },
+    "profit": 7.834504010209457,
+    "profit_percentage": 0.0012159523365000164,
+    "timestamp": "2025-03-13T19:22:14.194350"
+  },
+  {
+    "buy_trade": {
+      "exchange": "Binance",
+      "type": "buy",
+      "amount": 0.37963680032751534,
+      "price": 49649.26329069341,
+      "timestamp": "2025-03-14T01:28:15.194350"
+    },
+    "sell_trade": {
+      "exchange": "Huobi",
+      "type": "sell",
+      "amount": 0.37963680032751534,
+      "price": 49813.00022724646,
+      "timestamp": "2025-03-14T01:28:15.194350"
+    },
+    "profit": 62.16056668843157,
+    "profit_percentage": 0.003297872429534033,
+    "timestamp": "2025-03-14T01:28:15.194350"
+  },
+  {
+    "buy_trade": {
+      "exchange": "Binance",
+      "type": "buy",
+      "amount": 0.2843237330508561,
+      "price": 48291.00452536893,
+      "timestamp": "2025-03-13T18:52:41.194350"
+    },
+    "sell_trade": {
+      "exchange": "Coinbase",
+      "type": "sell",
+      "amount": 0.2843237330508561,
+      "price": 48738.32835957334,
+      "timestamp": "2025-03-13T18:52:41.194350"
+    },
+    "profit": 127.18478242361925,
+    "profit_percentage": 0.00926308820039996,
+    "timestamp": "2025-03-13T18:52:41.194350"
+  },
+  {
+    "buy_trade": {
+      "exchange": "Huobi",
+      "type": "buy",
+      "amount": 0.26445371780679694,
+      "price": 51330.23179361086,
+      "timestamp": "2025-03-15T10:06:33.194350"
+    },
+    "sell_trade": {
+      "exchange": "FTX",
+      "type": "sell",
+      "amount": 0.26445371780679694,
+      "price": 51585.59404521771,
+      "timestamp": "2025-03-15T10:06:33.194350"
+    },
+    "profit": 67.53149682494586,
+    "profit_percentage": 0.004974889897899023,
+    "timestamp": "2025-03-15T10:06:33.194350"
+  },
+  {
+    "buy_trade": {
+      "exchange": "Coinbase",
+      "type": "buy",
+      "amount": 0.4976068439630361,
+      "price": 48430.358997854666,
+      "timestamp": "2025-03-15T06:07:07.194350"
+    },
+    "sell_trade": {
+      "exchange": "Binance",
+      "type": "sell",
+      "amount": 0.4976068439630361,
+      "price": 49004.09880731694,
+      "timestamp": "2025-03-15T06:07:07.194350"
+    },
+    "profit": 285.4968558424771,
+    "profit_percentage": 0.01184669742976078,
+    "timestamp": "2025-03-15T06:07:07.194350"
+  },
+  {
+    "buy_trade": {
+      "exchange": "Binance",
+      "type": "buy",
+      "amount": 0.1136123358998419,
+      "price": 49046.78067020509,
+      "timestamp": "2025-03-15T10:42:20.194350"
+    },
+    "sell_trade": {
+      "exchange": "Kraken",
+      "type": "sell",
+      "amount": 0.1136123358998419,
+      "price": 49439.83995220171,
+      "timestamp": "2025-03-15T10:42:20.194350"
+    },
+    "profit": 44.65638317475168,
+    "profit_percentage": 0.008013967005084218,
+    "timestamp": "2025-03-15T10:42:20.194350"
+  },
+  {
+    "buy_trade": {
+      "exchange": "Huobi",
+      "type": "buy",
+      "amount": 0.21034320235933524,
+      "price": 49889.93562409073,
+      "timestamp": "2025-03-16T01:41:31.194350"
+    },
+    "sell_trade": {
+      "exchange": "Coinbase",
+      "type": "sell",
+      "amount": 0.21034320235933524,
+      "price": 50697.94405060821,
+      "timestamp": "2025-03-16T01:41:31.194350"
+    },
+    "profit": 169.959079967015,
+    "profit_percentage": 0.01619582018717442,
+    "timestamp": "2025-03-16T01:41:31.194350"
+  },
+  {
+    "buy_trade": {
+      "exchange": "Coinbase",
+      "type": "buy",
+      "amount": 0.4376878156280338,
+      "price": 50384.98914355591,
+      "timestamp": "2025-03-16T17:24:52.194350"
+    },
+    "sell_trade": {
+      "exchange": "Binance",
+      "type": "sell",
+      "amount": 0.4376878156280338,
+      "price": 50971.83904693004,
+      "timestamp": "2025-03-16T17:24:52.194350"
+    },
+    "profit": 256.85705230934764,
+    "profit_percentage": 0.011647316261239845,
+    "timestamp": "2025-03-16T17:24:52.194350"
+  },
+  {
+    "buy_trade": {
+      "exchange": "Huobi",
+      "type": "buy",
+      "amount": 0.3188597665248288,
+      "price": 48887.19683820835,
+      "timestamp": "2025-03-15T20:35:03.194350"
+    },
+    "sell_trade": {
+      "exchange": "Coinbase",
+      "type": "sell",
+      "amount": 0.3188597665248288,
+      "price": 49192.651099222974,
+      "timestamp": "2025-03-15T20:35:03.194350"
+    },
+    "profit": 97.39707435113633,
+    "profit_percentage": 0.006248144315279954,
+    "timestamp": "2025-03-15T20:35:03.194350"
+  },
+  {
+    "buy_trade": {
+      "exchange": "Kraken",
+      "type": "buy",
+      "amount": 0.4769068859385961,
+      "price": 51363.69097314053,
+      "timestamp": "2025-03-16T12:47:19.194350"
+    },
+    "sell_trade": {
+      "exchange": "Binance",
+      "type": "sell",
+      "amount": 0.4769068859385961,
+      "price": 51720.429156853534,
+      "timestamp": "2025-03-16T12:47:19.194350"
+    },
+    "profit": 170.13089628996022,
+    "profit_percentage": 0.006945337785392984,
+    "timestamp": "2025-03-16T12:47:19.194350"
+  },
+  {
+    "buy_trade": {
+      "exchange": "Binance",
+      "type": "buy",
+      "amount": 0.20921752343787078,
+      "price": 48696.42883565907,
+      "timestamp": "2025-03-17T15:46:41.194350"
+    },
+    "sell_trade": {
+      "exchange": "Kraken",
+      "type": "sell",
+      "amount": 0.20921752343787078,
+      "price": 49235.04031463618,
+      "timestamp": "2025-03-17T15:46:41.194350"
+    },
+    "profit": 112.68695972679961,
+    "profit_percentage": 0.011060595034490467,
+    "timestamp": "2025-03-17T15:46:41.194350"
+  },
+  {
+    "buy_trade": {
+      "exchange": "FTX",
+      "type": "buy",
+      "amount": 0.3488975433117727,
+      "price": 49084.33470974572,
+      "timestamp": "2025-03-17T06:27:28.194350"
+    },
+    "sell_trade": {
+      "exchange": "Binance",
+      "type": "sell",
+      "amount": 0.3488975433117727,
+      "price": 49590.230711276905,
+      "timestamp": "2025-03-17T06:27:28.194350"
+    },
+    "profit": 176.5058721054811,
+    "profit_percentage": 0.010306669215804535,
+    "timestamp": "2025-03-17T06:27:28.194350"
+  },
+  {
+    "buy_trade": {
+      "exchange": "Coinbase",
+      "type": "buy",
+      "amount": 0.22609069115789804,
+      "price": 52260.366293897474,
+      "timestamp": "2025-03-17T12:44:40.194350"
+    },
+    "sell_trade": {
+      "exchange": "FTX",
+      "type": "sell",
+      "amount": 0.22609069115789804,
+      "price": 52902.36968620551,
+      "timestamp": "2025-03-17T12:44:40.194350"
+    },
+    "profit": 145.15099069263852,
+    "profit_percentage": 0.012284709002948596,
+    "timestamp": "2025-03-17T12:44:40.194350"
+  },
+  {
+    "buy_trade": {
+      "exchange": "FTX",
+      "type": "buy",
+      "amount": 0.3933947457005843,
+      "price": 52238.148581938236,
+      "timestamp": "2025-03-17T06:08:57.194350"
+    },
+    "sell_trade": {
+      "exchange": "Binance",
+      "type": "sell",
+      "amount": 0.3933947457005843,
+      "price": 53174.77641982509,
+      "timestamp": "2025-03-17T06:08:57.194350"
+    },
+    "profit": 368.4644701015859,
+    "profit_percentage": 0.01792995853246412,
+    "timestamp": "2025-03-17T06:08:57.194350"
+  },
+  {
+    "buy_trade": {
+      "exchange": "Coinbase",
+      "type": "buy",
+      "amount": 0.3165191351129507,
+      "price": 51059.10475813323,
+      "timestamp": "2025-03-18T00:21:58.194350"
+    },
+    "sell_trade": {
+      "exchange": "Kraken",
+      "type": "sell",
+      "amount": 0.3165191351129507,
+      "price": 51246.21979897328,
+      "timestamp": "2025-03-18T00:21:58.194350"
+    },
+    "profit": 59.22549089331733,
+    "profit_percentage": 0.0036646753155272324,
+    "timestamp": "2025-03-18T00:21:58.194350"
+  },
+  {
+    "buy_trade": {
+      "exchange": "Coinbase",
+      "type": "buy",
+      "amount": 0.1568148509622294,
+      "price": 49006.09768740945,
+      "timestamp": "2025-03-18T09:49:15.194350"
+    },
+    "sell_trade": {
+      "exchange": "FTX",
+      "type": "sell",
+      "amount": 0.1568148509622294,
+      "price": 49272.07613481158,
+      "timestamp": "2025-03-18T09:49:15.194350"
+    },
+    "profit": 41.709370588529964,
+    "profit_percentage": 0.0054274561728767,
+    "timestamp": "2025-03-18T09:49:15.194350"
+  },
+  {
+    "buy_trade": {
+      "exchange": "Huobi",
+      "type": "buy",
+      "amount": 0.38443531404771714,
+      "price": 51657.223516230355,
+      "timestamp": "2025-03-17T21:56:13.194350"
+    },
+    "sell_trade": {
+      "exchange": "Binance",
+      "type": "sell",
+      "amount": 0.38443531404771714,
+      "price": 52328.84964524343,
+      "timestamp": "2025-03-17T21:56:13.194350"
+    },
+    "profit": 258.1968018297921,
+    "profit_percentage": 0.01300159170966769,
+    "timestamp": "2025-03-17T21:56:13.194350"
+  },
+  {
+    "buy_trade": {
+      "exchange": "FTX",
+      "type": "buy",
+      "amount": 0.36561720173160295,
+      "price": 48996.03651942145,
+      "timestamp": "2025-03-18T11:39:04.194350"
+    },
+    "sell_trade": {
+      "exchange": "Kraken",
+      "type": "sell",
+      "amount": 0.36561720173160295,
+      "price": 49486.55303621608,
+      "timestamp": "2025-03-18T11:39:04.194350"
+    },
+    "profit": 179.34127627358612,
+    "profit_percentage": 0.010011350950810023,
+    "timestamp": "2025-03-18T11:39:04.194350"
+  },
+  {
+    "buy_trade": {
+      "exchange": "Kraken",
+      "type": "buy",
+      "amount": 0.13738018252774872,
+      "price": 48525.842806217595,
+      "timestamp": "2025-03-18T13:32:18.194350"
+    },
+    "sell_trade": {
+      "exchange": "Huobi",
+      "type": "sell",
+      "amount": 0.13738018252774872,
+      "price": 49457.892635247874,
+      "timestamp": "2025-03-18T13:32:18.194350"
+    },
+    "profit": 128.0451756371367,
+    "profit_percentage": 0.01920728781058606,
+    "timestamp": "2025-03-18T13:32:18.194350"
+  },
+  {
+    "buy_trade": {
+      "exchange": "Huobi",
+      "type": "buy",
+      "amount": 0.2522639711977735,
+      "price": 48427.17504250286,
+      "timestamp": "2025-03-18T23:05:52.194350"
+    },
+    "sell_trade": {
+      "exchange": "FTX",
+      "type": "sell",
+      "amount": 0.2522639711977735,
+      "price": 48737.78855238058,
+      "timestamp": "2025-03-18T23:05:52.194350"
+    },
+    "profit": 78.35659750943341,
+    "profit_percentage": 0.006414033228349751,
+    "timestamp": "2025-03-18T23:05:52.194350"
+  },
+  {
+    "buy_trade": {
+      "exchange": "Coinbase",
+      "type": "buy",
+      "amount": 0.2672493388612889,
+      "price": 50920.06157162356,
+      "timestamp": "2025-03-19T06:40:12.194350"
+    },
+    "sell_trade": {
+      "exchange": "Huobi",
+      "type": "sell",
+      "amount": 0.2672493388612889,
+      "price": 51786.03912160547,
+      "timestamp": "2025-03-19T06:40:12.194350"
+    },
+    "profit": 231.43192770138376,
+    "profit_percentage": 0.017006608461457455,
+    "timestamp": "2025-03-19T06:40:12.194350"
+  },
+  {
+    "buy_trade": {
+      "exchange": "Huobi",
+      "type": "buy",
+      "amount": 0.10453813794503693,
+      "price": 52385.37597236471,
+      "timestamp": "2025-03-19T05:37:49.194350"
+    },
+    "sell_trade": {
+      "exchange": "Coinbase",
+      "type": "sell",
+      "amount": 0.10453813794503693,
+      "price": 53115.34383262131,
+      "timestamp": "2025-03-19T05:37:49.194350"
+    },
+    "profit": 76.30948087094748,
+    "profit_percentage": 0.01393457327941455,
+    "timestamp": "2025-03-19T05:37:49.194350"
+  },
+  {
+    "buy_trade": {
+      "exchange": "Huobi",
+      "type": "buy",
+      "amount": 0.17397225575136527,
+      "price": 50454.8827838038,
+      "timestamp": "2025-03-19T08:33:19.194350"
+    },
+    "sell_trade": {
+      "exchange": "Binance",
+      "type": "sell",
+      "amount": 0.17397225575136527,
+      "price": 51048.25387128248,
+      "timestamp": "2025-03-19T08:33:19.194350"
+    },
+    "profit": 103.23010658630665,
+    "profit_percentage": 0.011760429412178896,
+    "timestamp": "2025-03-19T08:33:19.194350"
+  },
+  {
+    "buy_trade": {
+      "exchange": "Coinbase",
+      "type": "buy",
+      "amount": 0.2758342664481471,
+      "price": 48047.16417500931,
+      "timestamp": "2025-03-19T11:16:38.194350"
+    },
+    "sell_trade": {
+      "exchange": "Huobi",
+      "type": "sell",
+      "amount": 0.2758342664481471,
+      "price": 48536.87645654554,
+      "timestamp": "2025-03-19T11:16:38.194350"
+    },
+    "profit": 135.07942794819428,
+    "profit_percentage": 0.010192324353472334,
+    "timestamp": "2025-03-19T11:16:38.194350"
+  },
+  {
+    "buy_trade": {
+      "exchange": "Binance",
+      "type": "buy",
+      "amount": 0.46731997753460663,
+      "price": 50521.19800961676,
+      "timestamp": "2025-03-20T04:51:32.194350"
+    },
+    "sell_trade": {
+      "exchange": "Kraken",
+      "type": "sell",
+      "amount": 0.46731997753460663,
+      "price": 51094.26615976617,
+      "timestamp": "2025-03-20T04:51:32.194350"
+    },
+    "profit": 267.8061950536212,
+    "profit_percentage": 0.011343122743057812,
+    "timestamp": "2025-03-20T04:51:32.194350"
+  },
+  {
+    "buy_trade": {
+      "exchange": "Kraken",
+      "type": "buy",
+      "amount": 0.3801977558936651,
+      "price": 51461.40752513577,
+      "timestamp": "2025-03-20T08:34:01.194350"
+    },
+    "sell_trade": {
+      "exchange": "Huobi",
+      "type": "sell",
+      "amount": 0.3801977558936651,
+      "price": 52268.688271538835,
+      "timestamp": "2025-03-20T08:34:01.194350"
+    },
+    "profit": 306.92632815860634,
+    "profit_percentage": 0.015687109724092863,
+    "timestamp": "2025-03-20T08:34:01.194350"
+  },
+  {
+    "buy_trade": {
+      "exchange": "Huobi",
+      "type": "buy",
+      "amount": 0.12795243673172904,
+      "price": 47943.71450605452,
+      "timestamp": "2025-03-20T10:12:04.194350"
+    },
+    "sell_trade": {
+      "exchange": "FTX",
+      "type": "sell",
+      "amount": 0.12795243673172904,
+      "price": 48022.335070333684,
+      "timestamp": "2025-03-20T10:12:04.194350"
+    },
+    "profit": 10.05969277674194,
+    "profit_percentage": 0.0016398513358666135,
+    "timestamp": "2025-03-20T10:12:04.194350"
+  },
+  {
+    "buy_trade": {
+      "exchange": "Huobi",
+      "type": "buy",
+      "amount": 0.31011185793556106,
+      "price": 50021.799619754136,
+      "timestamp": "2025-03-19T20:34:25.194350"
+    },
+    "sell_trade": {
+      "exchange": "FTX",
+      "type": "sell",
+      "amount": 0.31011185793556106,
+      "price": 50559.57970534959,
+      "timestamp": "2025-03-19T20:34:25.194350"
+    },
+    "profit": 166.77198150475124,
+    "profit_percentage": 0.01075091439499271,
+    "timestamp": "2025-03-19T20:34:25.194350"
+  },
+  {
+    "buy_trade": {
+      "exchange": "Huobi",
+      "type": "buy",
+      "amount": 0.16514334138188164,
+      "price": 47631.38878866424,
+      "timestamp": "2025-03-20T05:26:46.194350"
+    },
+    "sell_trade": {
+      "exchange": "Coinbase",
+      "type": "sell",
+      "amount": 0.16514334138188164,
+      "price": 48398.78664373571,
+      "timestamp": "2025-03-20T05:26:46.194350"
+    },
+    "profit": 126.73064595579126,
+    "profit_percentage": 0.016111179509720696,
+    "timestamp": "2025-03-20T05:26:46.194350"
+  },
+  {
+    "buy_trade": {
+      "exchange": "Kraken",
+      "type": "buy",
+      "amount": 0.33044679521229364,
+      "price": 48912.91471615683,
+      "timestamp": "2025-03-21T00:44:24.194350"
+    },
+    "sell_trade": {
+      "exchange": "FTX",
+      "type": "sell",
+      "amount": 0.33044679521229364,
+      "price": 49765.996914161624,
+      "timestamp": "2025-03-21T00:44:24.194350"
+    },
+    "profit": 281.8982783833417,
+    "profit_percentage": 0.01744083751612951,
+    "timestamp": "2025-03-21T00:44:24.194350"
+  },
+  {
+    "buy_trade": {
+      "exchange": "Coinbase",
+      "type": "buy",
+      "amount": 0.4080537470324097,
+      "price": 48689.653546182846,
+      "timestamp": "2025-03-20T19:12:31.194350"
+    },
+    "sell_trade": {
+      "exchange": "FTX",
+      "type": "sell",
+      "amount": 0.4080537470324097,
+      "price": 49039.39952859019,
+      "timestamp": "2025-03-20T19:12:31.194350"
+    },
+    "profit": 142.71515863084642,
+    "profit_percentage": 0.00718316843383586,
+    "timestamp": "2025-03-20T19:12:31.194350"
+  },
+  {
+    "buy_trade": {
+      "exchange": "Coinbase",
+      "type": "buy",
+      "amount": 0.21515148028981754,
+      "price": 52058.45249113336,
+      "timestamp": "2025-03-20T19:42:44.194350"
+    },
+    "sell_trade": {
+      "exchange": "Kraken",
+      "type": "sell",
+      "amount": 0.21515148028981754,
+      "price": 52408.927436081554,
+      "timestamp": "2025-03-20T19:42:44.194350"
+    },
+    "profit": 75.40520321009717,
+    "profit_percentage": 0.006732335061398341,
+    "timestamp": "2025-03-20T19:42:44.194350"
+  },
+  {
+    "buy_trade": {
+      "exchange": "Huobi",
+      "type": "buy",
+      "amount": 0.2355692763185472,
+      "price": 50846.6988693788,
+      "timestamp": "2025-03-21T05:00:24.194350"
+    },
+    "sell_trade": {
+      "exchange": "Coinbase",
+      "type": "sell",
+      "amount": 0.2355692763185472,
+      "price": 51125.52702216987,
+      "timestamp": "2025-03-21T05:00:24.194350"
+    },
+    "profit": 65.68334617022992,
+    "profit_percentage": 0.005483702167319722,
+    "timestamp": "2025-03-21T05:00:24.194350"
+  },
+  {
+    "buy_trade": {
+      "exchange": "FTX",
+      "type": "buy",
+      "amount": 0.1466299706516141,
+      "price": 52403.539148789634,
+      "timestamp": "2025-03-21T13:35:58.194350"
+    },
+    "sell_trade": {
+      "exchange": "Coinbase",
+      "type": "sell",
+      "amount": 0.1466299706516141,
+      "price": 52827.6493076733,
+      "timestamp": "2025-03-21T13:35:58.194350"
+    },
+    "profit": 62.18726015016364,
+    "profit_percentage": 0.008093158702115329,
+    "timestamp": "2025-03-21T13:35:58.194350"
+  },
+  {
+    "buy_trade": {
+      "exchange": "Huobi",
+      "type": "buy",
+      "amount": 0.38550808160299643,
+      "price": 48312.31037472781,
+      "timestamp": "2025-03-20T23:02:11.194350"
+    },
+    "sell_trade": {
+      "exchange": "Coinbase",
+      "type": "sell",
+      "amount": 0.38550808160299643,
+      "price": 48643.37666906994,
+      "timestamp": "2025-03-20T23:02:11.194350"
+    },
+    "profit": 127.6287320152478,
+    "profit_percentage": 0.006852628072933454,
+    "timestamp": "2025-03-20T23:02:11.194350"
+  },
+  {
+    "buy_trade": {
+      "exchange": "Coinbase",
+      "type": "buy",
+      "amount": 0.48969853161746146,
+      "price": 51503.2729583688,
+      "timestamp": "2025-03-22T11:30:52.194350"
+    },
+    "sell_trade": {
+      "exchange": "FTX",
+      "type": "sell",
+      "amount": 0.48969853161746146,
+      "price": 52397.081690481464,
+      "timestamp": "2025-03-22T11:30:52.194350"
+    },
+    "profit": 437.69682366243796,
+    "profit_percentage": 0.017354406443939024,
+    "timestamp": "2025-03-22T11:30:52.194350"
+  },
+  {
+    "buy_trade": {
+      "exchange": "Kraken",
+      "type": "buy",
+      "amount": 0.15366869738665823,
+      "price": 48056.97460398549,
+      "timestamp": "2025-03-22T00:04:37.194350"
+    },
+    "sell_trade": {
+      "exchange": "FTX",
+      "type": "sell",
+      "amount": 0.15366869738665823,
+      "price": 48135.08082038166,
+      "timestamp": "2025-03-22T00:04:37.194350"
+    },
+    "profit": 12.002480531400579,
+    "profit_percentage": 0.0016252836771314038,
+    "timestamp": "2025-03-22T00:04:37.194350"
+  },
+  {
+    "buy_trade": {
+      "exchange": "Huobi",
+      "type": "buy",
+      "amount": 0.42426278632171566,
+      "price": 51260.336154375684,
+      "timestamp": "2025-03-22T11:41:29.194350"
+    },
+    "sell_trade": {
+      "exchange": "Kraken",
+      "type": "sell",
+      "amount": 0.42426278632171566,
+      "price": 51567.2112859905,
+      "timestamp": "2025-03-22T11:41:29.194350"
+    },
+    "profit": 130.195698391748,
+    "profit_percentage": 0.005986600062290533,
+    "timestamp": "2025-03-22T11:41:29.194350"
+  }
+]
